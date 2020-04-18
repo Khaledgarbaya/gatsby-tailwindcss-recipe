@@ -10,10 +10,58 @@
 
 > A Gatsby Recipe to setup Gatsby with Tailwindcss
 
+[Tailwindcss](https://tailwindcss.com/) Tailwind CSS is a highly customizable, low-level CSS framework that gives you all of the building blocks you need to build bespoke designs without any annoying opinionated styles you have to fight to override.
+
 ## Usage
 
+### Add to an Existing Gatsby Project
+
 ```sh
-gatsby recipes tailwindcss.mdx
+gatsby recipes https://raw.githubusercontent.com/Khaledgarbaya/gatsby-tailwindcss-recipe/master/tailwindcss.mdx
+```
+
+### Starting from Scratch
+
+* Create a new Gatsby site and navigate
+
+```sh
+gatsby new my-gatsby-tailwindcss-app https://github.com/gatsbyjs/gatsby-starter-hello-world
+```
+
+* Navigate to the directory
+
+```sh
+cd my-gatsby-tailwindcss-app
+```
+
+* Upgrade to the latest version of Gatsby
+
+```sh
+npm upgrade --latest
+```
+
+OR
+
+```sh
+yarn upgrade --latest
+```
+
+* Run the recipe
+
+```sh
+gatsby recipes https://raw.githubusercontent.com/colbyfayock/gatsby-recipe-react-leaflet/master/react-leaflet.mdx
+```
+
+* Start your development server
+
+```sh
+npm run develop
+```
+
+OR
+
+```sh
+yarn develop
 ```
 
 ## Author
