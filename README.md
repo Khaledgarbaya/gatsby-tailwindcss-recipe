@@ -3,7 +3,21 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+<p>
+  <a href="https://github.com/Khaledgarbaya/gatsby-tailwindcss-recipe#readme" target="_blank">
+    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
+  </a>
+  <a href="https://github.com/Khaledgarbaya/gatsby-tailwindcss-recipe/graphs/commit-activity" target="_blank">
+    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained-yes-green.svg" />
+  </a>
+  <a href="https://github.com/Khaledgarbaya/cra-to-gatsby-workshop/blob/master/LICENSE" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/github/license/Khaledgarbaya/gatsby-tailwindcss-recipe" />
+  </a>
+  <a href="https://twitter.com/khaled_garbaya" target="_blank">
+    <img alt="Twitter: khaled_garbaya" src="https://img.shields.io/twitter/follow/khaled_garbaya.svg?style=social" />
+  </a>
+</p>
 
 > A Gatsby Recipe to setup Gatsby with Tailwindcss
 
